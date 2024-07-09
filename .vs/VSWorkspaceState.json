@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.idea",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\cz",
+    "\\src\\main\\java\\cz\\vsb",
+    "\\src\\main\\java\\cz\\vsb\\magistri",
+    "\\src\\main\\java\\cz\\vsb\\magistri\\configuration",
+    "\\src\\main\\java\\cz\\vsb\\magistri\\controller"
+  ],
+  "SelectedNode": "\\src\\main\\java\\cz\\vsb\\magistri\\controller\\GradeController.java",
+  "PreviewInSolutionExplorer": false
+}
